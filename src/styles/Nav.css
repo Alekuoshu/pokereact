@@ -1,0 +1,14 @@
+.navbar {
+  padding-top: 0.5em;
+  background-color: rgba(204, 204, 204, 0.8);
+}
+
+.navbar-header {
+  text-align: center;
+  width: 100%;
+}
+
+.navbar-header h1 {
+  margin: 10px 0;
+  font-size: 2em;
+}
